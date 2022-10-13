@@ -67,7 +67,6 @@ namespace mtv_console
                 Console.WriteLine("Yanlış Seçim Yaptınız.");
                 tutar = 0;
             }
-            ///www.yazilimkodlama.com
             if (secim3 == 1)
             {
                 tutar *= 2;
